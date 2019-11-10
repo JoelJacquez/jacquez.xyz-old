@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Jacquez's Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2019-11-09T20:53:16-07:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://joeljacquez.github.io/jacquez.xyz/atom.xml" rel="self"/>
+  <link href="http://joeljacquez.github.io/jacquez.xyz/"/>
+  <updated>2019-11-09T21:01:09-07:00</updated>
+  <id>http://joeljacquez.github.io/jacquez.xyz/</id>
   <author>
     <name><![CDATA[Joel Jacquez]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Configuración De SSH Para Conexiones Remotas]]></title>
-    <link href="http://yoursite.com/blog/2019/11/09/configuracion-de-ssh-para-conexiones-remotas/"/>
+    <link href="http://joeljacquez.github.io/jacquez.xyz/blog/2019/11/09/configuracion-de-ssh-para-conexiones-remotas/"/>
     <updated>2019-11-09T20:47:25-07:00</updated>
-    <id>http://yoursite.com/blog/2019/11/09/configuracion-de-ssh-para-conexiones-remotas</id>
+    <id>http://joeljacquez.github.io/jacquez.xyz/blog/2019/11/09/configuracion-de-ssh-para-conexiones-remotas</id>
     <content type="html"><![CDATA[<p>En este punto ya debemos de tener instalado <strong>ssh</strong> en nuestro servidor.</p>
 
 <h2>Paso 1 Iniciar con usuario root</h2>
